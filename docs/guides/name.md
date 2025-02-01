@@ -15,13 +15,13 @@ This document outlines the rules for naming conventions in a React project. Cons
 
   *Example*: `Button.tsx`, `Header.tsx`, `ProductCard.tsx`.
 
-- **style**: Use kebab-case for utility files or non-component files.
+- **style**: Use kebab-case for style files.
 
   *Example*: `button-style.module.css`, `global-style.module.css`.
 
 - **hook**: Use kebab-case for hook files.
 
-  *Example*: `use-fetch-data.ts`, `use-localS-storage.ts`.
+  *Example*: `use-fetch-data.ts`, `use-local-storage.ts`.
 
 - **test**: Use `*.test.ts` or `*.test.tsx` for test files.
 
@@ -64,12 +64,9 @@ This document outlines the rules for naming conventions in a React project. Cons
     - Use camelCase for loop variables (e.g., `i`, `j`, `k`).
     - Use camelCase for function names (e.g., `fetchData`, `calculateTotal`, `formatDate`).
 
-- **UPPER_CASE**: Use UPPER_CASE for constants (e.g., `API_URL`).
-    - Use UPPER_CASE for environment variables (e.g., `API_KEY`).
-    - Use UPPER_CASE for configuration variables (e.g., `MAX_LENGTH`, `MIN_LENGTH`).
-    - Use UPPER_CASE for action types (e.g., `FETCH_DATA`, `UPDATE_USER`, `DELETE_PRODUCT`).
-
-- **snake_case**: Use snake_case for environment variables (e.g., `API_KEY`).
+- **SCREAMING_SNAKE_CASE**: Use SCREAMING_SNAKE_CASE for constants (e.g., `API_URL`).
+    - Use SCREAMING_SNAKE_CASE for configuration variables (e.g., `MAX_LENGTH`, `MIN_LENGTH`).
+    - Use SCREAMING_SNAKE_CASE for environment variables (e.g., `API_KEY`).
 
 
 ## **Naming Conventions**
@@ -84,7 +81,7 @@ This document outlines the rules for naming conventions in a React project. Cons
 - **Type**: Use suffix `Type` for types (e.g., `UserType`, `ProductType`).
 - **Enum**: Use suffix `Enum` for enums (e.g., `UserRoleEnum`, `ProductStatusEnum`).
 - **Event**: Use suffix `Handler`, `Listener`, `Subscriber` or `on`   for events (e.g., `clickHandler`, `scrollListener`, `resizeSubscriber`, `onSubmit`).
-- **Hook**: Use descriptive names for hooks (e.g., `useFetchproduct`, `useLocalStorage`).
+- **Hook**: Use descriptive names for hooks (e.g., `useFetchProduct`, `useLocalStorage`).
 - **State**: Use suffix `State` for state variables (e.g., `loadingState`, `errorState`).
 - **Middleware**: Use suffix `Middleware` for middleware (e.g., `loggerMiddleware`, `thunkMiddleware`).
 
