@@ -2,46 +2,41 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the **`folder-zen`** documentation!
 
-## Getting Started
+This documentation provides an overview of the **`folder-zen`** project structure and guidelines for organizing your project folders. The **`folder-zen`** project structure is designed to help you create scalable, maintainable, and well-organized projects by following a set of conventions and best practices.
 
-Get started by **creating a new site**.
+## Table of Contents
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- [Intro](#intro)
+  - [Table of Contents](#table-of-contents)
+  - [Project Structure](#project-structure)
+  - [Folder Structure](#folder-structure)
 
-### What you'll need
+## Project Structure
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+The project is structured into the following layers:
+- **`base`**: foundational configurations and resources that serve as the building blocks for the entire project.
+- **`components`**: reusable React components.
+- **`libs`**: utility functions and helper functions.
+- **`modules`**: feature-based modules that encapsulate the business logic, state management, and UI components for a specific feature of the application.
+- **`services`**: API and business logic services.
+- **`views`**: UI views that represent the different screens or pages of the application.
+- **`app`**: the main application layer that ties everything together.
 
-## Generate a new site
+## Folder Structure
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
+The project is organized into the following folders:
 
 ```bash
-cd my-website
-npm run start
+src/
+├── app/                   # app directory (Next.js App Router) and main application logic
+├── components/            # Reusable components
+├── base/                  # Base Configuration
+├── modules/               # Feature-based modules
+├── services/              # API and business logic services
+├── libs/                  # Utility functions and helpers
+├── views/                 # Main views, layouts, and context providers
 ```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.

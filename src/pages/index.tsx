@@ -21,7 +21,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            FolderZen Tutorial
+            FolderZen Docs
           </Link>
         </div>
       </div>
@@ -33,8 +33,8 @@ export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`FolderZen ${siteConfig.title}`}
+      description="FolderZen has a suite of tools to help you manage your files."
     >
       <HomepageHeader />
       <main>{/* <HomepageFeatures /> */}</main>

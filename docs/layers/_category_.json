@@ -1,0 +1,8 @@
+{
+  "label": "Project Structure",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "In this documentation, we will explore each layer of the React and Next.js project structure. Learn about the purpose of each directory, its contents, and best practices for organizing your code effectively."
+  }
+}
