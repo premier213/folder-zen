@@ -89,7 +89,7 @@ The `services` layer is responsible for:
 
 </Tabs>
 
-## 3. Usage of the `views` Layer
+## 3. Usage of the `services` Layer
 
 ```tsx title="src/services/api/user.ts"
 import {axios} from "@s/api/request";
