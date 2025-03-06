@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://folder-zen.vercel.app/</loc>
+  <lastmod>2025-03-06T20:36:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/intro</loc>
+  <lastmod>2025-03-06T20:36:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog</loc>
+  <lastmod>2025-03-06T20:36:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/category/guides</loc>
+  <lastmod>2025-03-06T20:36:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/category/project-structure</loc>
+  <lastmod>2025-03-06T20:36:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/category/examples</loc>
+  <lastmod>2025-03-06T20:36:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/welcome</loc>
+  <lastmod>2025-03-06T20:36:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/mdx-blog-post</loc>
+  <lastmod>2025-03-06T20:36:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/long-blog-post</loc>
+  <lastmod>2025-03-06T20:36:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/first-blog-post</loc>
+  <lastmod>2025-03-06T20:36:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/authors/all-sebastien-lorber-articles</loc>
+  <lastmod>2025-03-06T20:36:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/authors/yangshun</loc>
+  <lastmod>2025-03-06T20:36:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/tags/facebook</loc>
+  <lastmod>2025-03-06T20:36:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/tags/hello</loc>
+  <lastmod>2025-03-06T20:36:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/tags/docusaurus</loc>
+  <lastmod>2025-03-06T20:36:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/tags/hola</loc>
+  <lastmod>2025-03-06T20:36:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/guides/Getting%20Started</loc>
+  <lastmod>2025-03-06T20:36:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/guides/Folder%20Structure%20Design</loc>
+  <lastmod>2025-03-06T20:36:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/guides/Folder%20Design%20with%20Barrel%20Files</loc>
+  <lastmod>2025-03-06T20:36:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/guides/TypeScript%20in%20Folder%20Structure</loc>
+  <lastmod>2025-03-06T20:36:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/guides/Import%20and%20Export%20Rules</loc>
+  <lastmod>2025-03-06T20:36:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/guides/Name%20Conventions%20Rules</loc>
+  <lastmod>2025-03-06T20:36:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/guides/Files%20and%20Directories</loc>
+  <lastmod>2025-03-06T20:36:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/guides/Cursor%20Rules%20for%20React%20Projects</loc>
+  <lastmod>2025-03-06T20:36:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/layers/Base%20Layer</loc>
+  <lastmod>2025-03-06T20:36:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/layers/Components%20Layer</loc>
+  <lastmod>2025-03-06T20:36:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/layers/Modules%20Layer</loc>
+  <lastmod>2025-03-06T20:36:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/layers/Views%20Layer</loc>
+  <lastmod>2025-03-06T20:36:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/layers/App%20or%20Pages%20Layer</loc>
+  <lastmod>2025-03-06T20:36:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/layers/Services%20Layer</loc>
+  <lastmod>2025-03-06T20:36:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/layers/libs%20Layer</loc>
+  <lastmod>2025-03-06T20:36:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/examples/TypeScript%20Integration%20Example</loc>
+  <lastmod>2025-03-06T20:37:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/docs/examples/Next.js%20with%20Pages%20Router</loc>
+  <lastmod>2025-03-06T20:37:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/authors</loc>
+  <lastmod>2025-03-06T20:37:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://folder-zen.vercel.app/blog/tags</loc>
+  <lastmod>2025-03-06T20:37:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
