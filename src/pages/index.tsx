@@ -5,6 +5,7 @@ import Layout from "@theme/Layout";
 import clsx from "clsx";
 import type { ReactNode } from "react";
 
+import HomepageFeatures from "../components/HomepageFeatures";
 import styles from "./index.module.css";
 
 function HomepageHeader() {
@@ -37,7 +38,9 @@ export default function Home(): ReactNode {
       description="FolderZen has a suite of tools to help you manage your files."
     >
       <HomepageHeader />
-      <main>{/* <HomepageFeatures /> */}</main>
+      <main>
+        <HomepageFeatures />
+      </main>
     </Layout>
   );
 }
